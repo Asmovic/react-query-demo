@@ -1,0 +1,83 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Lee"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Darlington"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Alice Wilson"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Adeyanju Samuel"
+    },
+    {
+      "id": 2,
+      "name": "Nkokwe Serah"
+    },
+    {
+      "id": 3,
+      "name": "Effiong Akpan"
+    }
+  ],
+  "users": [
+    {
+      "id": "asogba@gmail.com",
+      "channelId": "asmovicrichy"
+    }
+  ],
+  "channels": [
+    {
+      "id": "asmovicrichy",
+      "courses": ["react", "node", "php"]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "white"
+    },
+    {
+      "id": 2,
+      "label": "black"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "blue"
+    },
+    {
+      "id": 5,
+      "label": "red"
+    },
+    {
+      "id": 6,
+      "label": "pink"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    },
+    {
+      "id": 9,
+      "label": "violet"
+    }
+  ]
+}
